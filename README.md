@@ -1,4 +1,4 @@
-# pizza-empire
+# Pizza-Empire
 Site dynamique d'un restaurant fictif.
 Ce projet est archivé (.zip) en raison du nombre important de fichiers...
 
